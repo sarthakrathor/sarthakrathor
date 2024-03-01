@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&username=sarthakrathor"  />
 </div>
 
 ###
@@ -26,7 +26,10 @@
 
 ###
 
-<p align="left">I'm <b> SARTHAK RATHOR </b> <br><br>- 📚 I'm currently learning ...<br>- </p>
+<p align="left">
+  I'm <b> SARTHAK RATHOR </b> <br><br>- 
+  📚 I'm currently learning ...<br>- 
+</p>
 
 ###
 
