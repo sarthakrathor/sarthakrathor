@@ -36,20 +36,27 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<!--   <img width="12" /> -->
+  <img height="12" width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<!--   <img width="12" /> -->
+  <img height="12" width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<!--   <img width="12" /> -->
+  <img height="12" width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<!--   <img width="12" /> -->
+  <img height="12" width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-<!--   <img width="12" /> -->
+  <img height="12" width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
-<!--   <img width="12" /> -->
+  <img height="12" width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<!--   <img width="12" />         -->
+  <img height="12" width="12" />
+
 </div>
+  
 
 ###
 
